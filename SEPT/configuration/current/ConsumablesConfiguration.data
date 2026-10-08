@@ -1,0 +1,18 @@
+{
+  "ProcessingTipTray": {
+    "SupportedPartNumbers": [
+      {
+        "Description": "Hamilton HIGH VOL. CORE TIPS, FILTER",
+        "Value": 235905
+      }
+    ]
+  },
+  "EluateTipTray": {
+    "SupportedPartNumbers": [
+      {
+        "Description": "Hamilton STD VOL. CORE TIPS, FILTER",
+        "Value": 235903
+      }
+    ]
+  }
+}
